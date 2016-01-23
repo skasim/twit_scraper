@@ -1,0 +1,8 @@
+oauthlib==1.0.3
+requests==2.9.1
+requests-oauthlib==0.6.0
+six==1.10.0
+tweepy==3.5.0
+twitter==1.17.1
+TwitterSearch==1.0.1
+wheel==0.24.0
