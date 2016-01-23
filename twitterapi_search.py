@@ -24,7 +24,7 @@ api = tweepy.API(auth)
 
 
 def get_all_tweets(query, total_tweets):
-    #initialize a list to hold all the tweepy Tweets  
+    #initialize a list to hold all the tweepy tweets  
     alltweets = []
 
     #make initial request for most recent tweets (100 is the maximum allowed count)
